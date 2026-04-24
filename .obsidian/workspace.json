@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ea3eca054bb0647",
+        "id": "289a150ee14a6292",
         "type": "tabs",
         "children": [
           {
-            "id": "861139fa0ee01617",
+            "id": "b5e7479503d37c75",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 772.5
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +212,10 @@
   },
   "active": "fb69dc0461d5bb07",
   "lastOpenFiles": [
-    "references/火灾子场景分类.md",
+    "README.md",
     "references/火灾预测模型.md",
+    "00_Inbox/Wiki_Index.md",
+    "references/火灾子场景分类.md",
     "concepts/MOC.md",
     "skills/DIKW_Template.md",
     "references/Agent_Dispatch_MOC.md",
@@ -237,8 +239,6 @@
     "concepts/约束校验.md",
     "entities/VehicleType.md",
     "entities/AlarmEvent.md",
-    "concepts/警情定级.md",
-    "concepts/外部记忆.md",
     "projects/SecondBrain_Agent",
     "projects/FireDispatchEngine",
     "_raw",

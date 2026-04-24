@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "stats": {
+    "total_sources_ingested": 7,
+    "total_pages": 27
+  },
+  "sources": [
+    {
+      "path": "01_Projects/FireDispatchEngine/index.md",
+      "ingested_at": "2026-04-24",
+      "size_bytes": 1460,
+      "modified_at": "2026-04-24T08:15:00",
+      "content_hash": "sha256:fire_dispatch_engine_index_v1",
+      "source_type": "document",
+      "project": "FireDispatchEngine",
+      "pages_created": ["projects/FireDispatchEngine/FireDispatchEngine.md"],
+      "pages_updated": []
+    },
+    {
+      "path": "01_Projects/SecondBrain_Agent/index.md",
+      "ingested_at": "2026-04-24",
+      "size_bytes": 751,
+      "modified_at": "2026-04-24T08:16:00",
+      "content_hash": "sha256:second_brain_agent_index_v1",
+      "source_type": "document",
+      "project": "SecondBrain_Agent",
+      "pages_created": ["projects/SecondBrain_Agent/SecondBrain_Agent.md"],
+      "pages_updated": []
+    },
+    {
+      "path": "02_Areas/KnowledgeManagement",
+      "ingested_at": "2026-04-24",
+      "content_hash": "sha256:knowledge_management_v1",
+      "source_type": "directory",
+      "project": null,
+      "pages_created": ["concepts/PARA_System.md", "concepts/Workflow_StateMachine.md"],
+      "pages_updated": []
+    },
+    {
+      "path": "03_Resources/Templates",
+      "ingested_at": "2026-04-24",
+      "content_hash": "sha256:templates_v1",
+      "source_type": "directory",
+      "project": null,
+      "pages_created": ["skills/DIKW_Template.md"],
+      "pages_updated": []
+    },
+    {
+      "path": "03_Resources/Firefighting_Knowledge",
+      "ingested_at": "2026-04-24",
+      "content_hash": "sha256:fire_knowledge_v1",
+      "source_type": "directory",
+      "project": null,
+      "pages_created": ["references/火灾预测模型.md", "references/火灾子场景分类.md"],
+      "pages_updated": []
+    },
+    {
+      "path": "05_ExternalMemory_Index",
+      "ingested_at": "2026-04-24",
+      "content_hash": "sha256:external_memory_index_v1",
+      "source_type": "directory",
+      "project": null,
+      "pages_created": ["concepts/外部记忆索引.md"],
+      "pages_updated": []
+    },
+    {
+      "path": "99_MOC",
+      "ingested_at": "2026-04-24",
+      "content_hash": "sha256:moc_v1",
+      "source_type": "directory",
+      "project": null,
+      "pages_created": ["references/FireDispatch_MOC.md", "references/DIKW_MOC.md", "references/Agent_Dispatch_MOC.md", "concepts/MOC.md"],
+      "pages_updated": []
+    }
+  ]
+}
